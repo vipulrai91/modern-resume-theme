@@ -30,37 +30,44 @@
   quote: >
     To process huge game logs to enable publisher find churn analysis, make future marketing strategies, find sentiments of players about the current version of game
   description: | # this will include new lines to allow paragraphs
-    - Raw data was being generated in json / feeds on Hive
-    - Converted data to parquet format for faster retrieval and less storage.
-    - Creating automated QA module on Spark, which did basic QC of data such as calculating min, max , avg etc for each day’s fresh feed thereby removing the necessity of manual intervention
-    - Wrote an automated Pyspark program which calculated user stats on daily, weekly and monthly level
-    - Created input data set for cross sell model using stats such as available PS Plus points, weekly spend on PS points
-    - Created model to detect fraud and cheat during gameplay
+    - Date Engineering
+      - Raw data was being generated in json / feeds on Hive
+      - Converted data to parquet format for faster retrieval and less storage.
+      - Creating automated QA module on Spark, which did basic QC of data such as calculating min, max , avg etc for each day’s fresh feed thereby removing the necessity of manual intervention
+    - Data Science
+      - Wrote an automated Pyspark program which calculated user stats on daily, weekly and monthly level
+      - Created input data set for cross sell model using stats such as available PS Plus points, weekly spend on PS points
+      - Created model to detect fraud and cheat during gameplay
 
 - layout: top-middle
   name: Travel Portal Optimization
   quote: >
     To reduce the number of unqualified searches on portal’s meta channel
   description: | # this will include new lines to allow paragraphs
-    - Gave an optimized solution for a leading online travel brand to reduce the number of unqualified searches it is getting from meta channels, to improve the business KPIs like ROI/profitability/efficiency.
-    - Wrote the Optimization Program using lpsolve from Pulp package (Pyspark) and Random Forest from MlLib.
+    - Data Science
+      - Gave an optimized solution for a leading online travel brand to reduce the number of unqualified searches it is getting from meta channels, to improve the business KPIs like ROI/profitability/efficiency.
+      - Wrote the Optimization Program using lpsolve from Pulp package (Pyspark) and Random Forest from MlLib.
 
 - layout: top-middle
   name: Retail Store Revenue Optimization
   quote: >
     To identify optimal promo/clearance sale prices which would result in maximum sales
   description: | # this will include new lines to allow paragraphs
-    - The pricing team was tasked with the challenge to identify optimal promo/clearance sale prices which would result in maximum sales.
-    - Identified multiple factors which impact unit sales during promotions such as Price Elasticity, Seasonality, % sales in each Day-of-the-Week, effect of circulars/promotions, breakage due to unavailability of different sized SKUs, impact of public holidays, etc.
+    - Data Science
+      - The pricing team was tasked with the challenge to identify optimal promo/clearance sale prices which would result in maximum sales.
+      - Identified multiple factors which impact unit sales during promotions such as Price Elasticity, Seasonality, % sales in each Day-of-the-Week, effect of circulars/promotions, breakage due to unavailability of different sized SKUs, impact of public holidays, etc.
 
 - layout: top-middle
   name: Travel Portal- Email Marketing and Campaigns analysis
   quote: >
     To process huge unstructured data and help the marketing team gain insights about the current promotions and decide future strategies
   description: | # this will include new lines to allow paragraphs
-    - Data was being generated at about 2GB per hour in json format.
-    - Converted data to parquet format for faster retrieval and less storage.
-    - Used client API to map the data and convert into standardized format.
-    - Used Qubole for accessing the spark cluster and running the queries.
-    - Wrote program in Pyspark and Scala Spark to select different campaigns for various categories of customers based on Business Rules
-    - Got hands on experience working on AWS Ec2 and S3
+    - Data Engineering
+      - Data was being generated at about 2GB per hour in json format.
+      - Converted data to parquet format for faster retrieval and less storage.
+      - Used client API to map the data and convert into standardized format.
+      - Used Qubole for accessing the spark cluster and running the queries.
+      - Got hands on experience working on AWS Ec2 and S3
+
+    - Data Science
+      - Wrote program in Pyspark and Scala Spark to select different campaigns for various categories of customers based on Business Rules
