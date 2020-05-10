@@ -7,3 +7,12 @@
     68.8 %
   description: | # this will include new lines to allow paragraphs
     Computer Science and Engineering
+
+- layout: left
+  name: KV
+  dates: 2008 - 2012
+  qualification: Bachelor of Technology
+  quote: >
+    68.8 %
+  description: | # this will include new lines to allow paragraphs
+    Computer Science and Engineering
