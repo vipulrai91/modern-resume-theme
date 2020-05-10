@@ -1,9 +1,19 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: SmartNomad
+  link: https://smartnomad.com/
   quote: >
-    Short overview of the project (optional)
+    Intelligent itinerary builder, one-click booking engine and real-time travel assistant.
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Built the entire pipeline beginning from data aggregation to the final itinerary.
+    Wrote proprietary algorithm which calculates the scores for each poi
+    Wrote code which adds functionality on top of original solver
+    Built the backend of the core application which provides personalized intelligent itinerary custom made for each user using Django
+    Built automated framework which tests the effectiveness, feasibility of the itinerary.
+    Created internal video creator app using opencv-python and moviepy
+    Set Up and used OSRM for routing
+    Managed a team of 7-9 people and undertook project management
+    Used Selenium and BS4 for scrapping
+    Used multiple Google APIs such as distance matrix ,maps, places
+    Used ML algorithm to test the churn analysis
+    Created prelaunch application
