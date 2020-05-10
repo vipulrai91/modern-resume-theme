@@ -4,15 +4,11 @@
   dates: 2008 - 2012
   qualification: Bachelor of Technology
   quote: >
-    68.8 %
-  description: | # this will include new lines to allow paragraphs
-    Computer Science and Engineering
+    Computer Science and Engineering 68.8 %
 
 - layout: left
-  name: KV
-  dates: 2008 - 2012
-  qualification: Bachelor of Technology
+  name: Kendriya Vidyalaya
+  dates: 2008
+  qualification:
   quote: >
-    68.8 %
-  description: | # this will include new lines to allow paragraphs
-    Computer Science and Engineering
+    Higher Senior Secondary School - MPC 66.8 %
