@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
     - DL/AI - Neural Networks(CNN , RNN , LSTM)
     - ML - Regression(Linear Regression, RandomForest Regressor)
     - ML - Classification and Segmentation(Logistic Regression, RandomForest Classifier, SVM , XGBoost , KNN)
-    - Cloud Services - AWS Lambda , S3 , Ec2 , API Gateway , SageMaker
+    - Cloud Services - AWS Lambda , S3 , EC2 , API Gateway , SageMaker
     - Deep Learning Frameworks - fast.ai , PyTorch
     - Dev Tools - Django , Git , Github , Jupyter , VSCode , JIRA 
     - ML libraries - Pandas , Numpy , scikit-learn

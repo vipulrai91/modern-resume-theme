@@ -5,18 +5,26 @@
   quote: >
     Intelligent itinerary builder, one-click booking engine and real-time travel assistant.
   description: | # this will include new lines to allow paragraphs
-    - Built the entire pipeline beginning from data aggregation to the final itinerary.
-    - Wrote proprietary algorithm which calculates the scores for each poi
-    - Wrote code which adds functionality on top of original solver
-    - Built the backend of the core application which provides personalized intelligent itinerary custom made for each user using Django
-    - Built automated framework which tests the effectiveness, feasibility of the itinerary.
-    - Created internal video creator app using opencv-python and moviepy
-    - Set Up and used OSRM for routing
-    - Managed a team of 7-9 people and undertook project management
-    - Used Selenium and BS4 for scrapping
-    - Used multiple Google APIs such as distance matrix ,maps, places
-    - Used ML algorithm to test the churn analysis
-    - Created prelaunch application
+    - Product Intelligence and Data Science
+      - Designed and built algorithm which calculates the scores for each point of interest
+      - Designed and built personalized places of interest ranking algorithm
+      - Desgined and built optimal flights,hotels,restaurant selection algorithm
+      - Used ML algorithm to test the churn analysis
+    - Software Engineering
+      - Built the entire pipeline beginning from data aggregation to the final itinerary
+      - Wrote code which adds functionality on top of original solver
+      - Built the backend of the core application which provides personalized intelligent itinerary custom made for each user using Django
+      - Built automated framework which tests the effectiveness, feasibility of the itinerary
+      - Created internal video creator app using opencv-python and moviepy
+      - Set Up and used OSRM for routing
+      - Used Selenium and BS4 for scrapping
+      - Used multiple Google APIs such as distance matrix ,maps, places
+      - Created prelaunch application
+    - Product management
+      - Managed a team of 7-9 people and undertook project management
+      - Collaborated with UI/UX designers, app developers and business to create an optmial customer experience
+
+
 
 - layout: top-middle
   name: Gaming Analytics
