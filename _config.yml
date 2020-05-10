@@ -36,8 +36,10 @@ linkedin_username: vipulrai
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
+  Engineering professional with substantial experience designing and executing solutions for complex business problems involving large scale data analysis,
+  real-time analytics. Knows how to use the right tools when and where they make sense enabling organizations effectively analyze and process TB/PB of structured
+  and unstructured data. 7+ years of experience working on Big Data Ecosystem.   
+  DataBricks Certified Spark Developer (August-2015 , Certification No 1.1.0-0170)
   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
     - Lists
     - Tables
