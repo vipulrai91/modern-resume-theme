@@ -43,11 +43,11 @@ about_content: | # this will include new lines to allow paragraphs
     - Looking for interesting opportunites in field of ML/DL/AI/Big Data and open to Freelance Consulting.
 
   <mark>My Skills include</mark>
-    - Programming Languages - Python ,Java ,Scala
-    - Big Data - Spark, Kafka, Map Reduce, Hive, HDFS, YARN, SQL
-    - ML /DL/AI - CNN,RNN,LSTM,fast.ai,PyTorch,Linear Regression,Logistic Regression,Descision Trees
-    - Django ,Git ,Github ,Jupyter, VSCode, JIRA
-    - AWS Lambda ,S3,Ec2
+    - Programming Languages - Python , Java , Scala
+    - Big Data - Spark , Kafka , Map Reduce , Hive,  HDFS , YARN , SQL
+    - ML/DL/AI - CNN , RNN , LSTM , fast.ai , PyTorch , Linear Regression , Logistic Regression , Descision Trees
+    - Django , Git , Github , Jupyter , VSCode , JIRA
+    - AWS Lambda , S3 , Ec2
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
