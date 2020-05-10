@@ -21,3 +21,25 @@
   description: | # this will include new lines to allow paragraphs
     Worked as Consultant to manage timely delivery of projetcs to clients.
     Designed the applications and wrote to code. Worked as instructor for new and emerging technologies.
+
+- layout: left
+  company: AIG Data Solutions
+  link: https://www.aig.com/
+  job_title: Big Data Developer
+  dates: Feb 2015 - Nov 2015
+  quote: >
+    AIG is one of the biggest insurance companies in the world.
+  description: | # this will include new lines to allow paragraphs
+    Worked as Big Data Developer to internal AIG teams across the globe.
+    Desgined and built a POC around Spark
+
+- layout: left
+  company: Blue Star Infotech
+  link: https://www.infogain.com/
+  job_title: Software Engineer
+  dates: Aug 2013 - Feb 2015
+  quote: >
+    Infogain is a company expertised in the travel, retail, insurance and high technology industries.
+  description: | # this will include new lines to allow paragraphs
+    Worked as Software Engineer, joined here as a fresher.
+    Learned and worked around Big Data tools such as Hadoop , Hive etc.
