@@ -47,9 +47,14 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>My Skills include</mark>
     - Programming Languages - Python , Java , Scala
     - Big Data - Spark , Kafka , Map Reduce , Hive,  HDFS , YARN , SQL
-    - ML/DL/AI - CNN , RNN , LSTM , fast.ai , PyTorch , Linear Regression , Logistic Regression , Descision Trees
-    - Django , Git , Github , Jupyter , VSCode , JIRA
-    - AWS Lambda , S3 , Ec2
+    - DL/AI - Neural Networks(CNN , RNN , LSTM)
+    - ML - Regression(Linear Regression, RandomForest Regressor)
+    - ML - Classification and Segmentation(Logistic Regression, RandomForest Classifier, SVM , XGBoost , KNN)
+    - Cloud Services - AWS Lambda , S3 , Ec2 , API Gateway , SageMaker
+    - Deep Learning Frameworks - fast.ai , PyTorch
+    - Dev Tools - Django , Git , Github , Jupyter , VSCode , JIRA 
+    - ML libraries - Pandas , Numpy , scikit-learn
+
 
   <mark>My Research areas include</mark>
     - NLP , Deep Learning , Image Analysis
