@@ -18,6 +18,7 @@
     - Used ML algorithm to test the churn analysis
     - Created prelaunch application
 
+- layout: top-middle
   name: Gaming Analytics
   quote: >
     To process huge game logs to enable publisher find churn analysis, make future marketing strategies, find sentiments of players about the current version of game
