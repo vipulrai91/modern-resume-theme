@@ -1,9 +1,14 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+  name: JNTU-K
+  dates: 2008 - 2012
+  qualification: Bachelor of Technology (eg. BA Performing Arts)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Computer Science and Engineering
+
+  name: Kendriya Vidyalaya
+  dates: 2008
+  qualification: 12th - MPC
+  description: | # this will include new lines to allow paragraphs
+    Senior Secondary School
+
