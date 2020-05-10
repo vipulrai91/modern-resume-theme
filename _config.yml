@@ -40,10 +40,14 @@ about_content: | # this will include new lines to allow paragraphs
   real-time analytics. Knows how to use the right tools when and where they make sense enabling organizations effectively analyze and process TB/PB of structured
   and unstructured data. 7+ years of experience working on Big Data Ecosystem.DataBricks Certified Spark Developer (August-2015 , Certification No 1.1.0-0170)
 
+  <mark>Currently</mark>
+    - Open Source Contributor to pandas and scikit-learn
+    - Looking for interesting opportunites in field of ML/DL/AI/Big Data and open to Freelance Consulting.
+
   <mark>Skills</mark>:
     - Programming Languages - Python ,Java ,Scala
-    - Big Data : PySpark,Scala- Spark,Data Frames API,Spark SQL,Spark Streaming,Kafka,Map Reduce,Hive,HDFS,Solr,YARN,SQL
-    - ML /DL/AI :CNN,RNN,LSTM,fast.ai,PyTorch,Linear Regression,Logistic Regression,Descision Trees
+    - Big Data - Spark, Kafka, Map Reduce, Hive, HDFS, YARN, SQL
+    - ML /DL/AI - CNN,RNN,LSTM,fast.ai,PyTorch,Linear Regression,Logistic Regression,Descision Trees
     - Django ,Git ,Github ,Jupyter, VSCode, JIRA
     - AWS Lambda ,S3,Ec2
 
