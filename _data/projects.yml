@@ -30,7 +30,7 @@
   quote: >
     To process huge game logs to enable publisher find churn analysis, make future marketing strategies, find sentiments of players about the current version of game
   description: | # this will include new lines to allow paragraphs
-    - Date Engineering
+    - Data Engineering
       - Raw data was being generated in json / feeds on Hive
       - Converted data to parquet format for faster retrieval and less storage.
       - Creating automated QA module on Spark, which did basic QC of data such as calculating min, max , avg etc for each day’s fresh feed thereby removing the necessity of manual intervention
