@@ -1,10 +1,23 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: SmartNomad
+  link: https://smartnomad.com/
+  job_title: Product Engineer and Data Scientist
+  dates: Oct 2017 - May 2020
   quote: >
-   Short description of the company (optional)
+    Smartnomad is itinerary builder, one-click booking engine and real-time travel assistant
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Designed the end to end architeture of the product
+    Build the Data Science Team and backend team from Scratch. Wrote the core backend algorithms
+    Managed a team of 7-9 people.
+
+- layout: left
+  company: Affine Analytics
+  link: https://www.affineanalytics.com/
+  job_title: Consultant
+  dates: Nov 2015 - May 2017
+  quote: >
+    Affine is company specialized in Data Sciences and Data Engineering Services
+  description: | # this will include new lines to allow paragraphs
+    Worked as Consultant to manage timely delivery of projetcs to clients
+    Designed the applications and wrote to code
