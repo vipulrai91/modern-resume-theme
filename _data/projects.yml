@@ -28,12 +28,14 @@
 - layout: top-middle
   name: Gaming Analytics
   quote: >
-    To process huge game logs to enable publisher find churn analysis, make future marketing strategies, find sentiments of players about the current version of game
+    To process huge game logs to enable publisher find churn analysis, make future marketing strategies, 
+    find sentiments of players about the current version of game
   description: | # this will include new lines to allow paragraphs
     - Data Engineering
       - Raw data was being generated in json / feeds on Hive
       - Converted data to parquet format for faster retrieval and less storage.
-      - Creating automated QA module on Spark, which did basic QC of data such as calculating min, max , avg etc for each day’s fresh feed thereby removing the necessity of manual intervention
+      - Creating automated QA module on Spark, which did basic QC of data such as calculating min, max,
+      avg etc for each day’s fresh feed thereby removing the necessity of manual intervention
     - Data Science
       - Wrote an automated Pyspark program which calculated user stats on daily, weekly and monthly level
       - Created input data set for cross sell model using stats such as available PS Plus points, weekly spend on PS points
@@ -45,7 +47,8 @@
     To reduce the number of unqualified searches on portal’s meta channel
   description: | # this will include new lines to allow paragraphs
     - Data Science
-      - Gave an optimized solution for a leading online travel brand to reduce the number of unqualified searches it is getting from meta channels, to improve the business KPIs like ROI/profitability/efficiency.
+      - Gave an optimized solution for a leading online travel brand to reduce the number of unqualified searches it is 
+      getting from meta channels, to improve the business KPIs like ROI/profitability/efficiency.
       - Wrote the Optimization Program using lpsolve from Pulp package (Pyspark) and Random Forest from MlLib.
 
 - layout: top-middle
@@ -55,7 +58,8 @@
   description: | # this will include new lines to allow paragraphs
     - Data Science
       - The pricing team was tasked with the challenge to identify optimal promo/clearance sale prices which would result in maximum sales.
-      - Identified multiple factors which impact unit sales during promotions such as Price Elasticity, Seasonality, % sales in each Day-of-the-Week, effect of circulars/promotions, breakage due to unavailability of different sized SKUs, impact of public holidays, etc.
+      - Identified multiple factors which impact unit sales during promotions such as Price Elasticity, Seasonality, % sales in each Day-of-the-Week, 
+      effect of circulars/promotions, breakage due to unavailability of different sized SKUs, impact of public holidays, etc.
 
 - layout: top-middle
   name: Travel Portal- Email Marketing and Campaigns analysis
