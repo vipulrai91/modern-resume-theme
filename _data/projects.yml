@@ -42,6 +42,27 @@
       - Onboarded flight,hotel and booking partners to create inventory and enable booking experiences
 
 - layout: top-middle
+  name: Kaggle
+  link: https://www.kaggle.com/vipulrai
+  quote: >
+    Online Competition - https://www.kaggle.com/ 
+  description: | # this will include new lines to allow paragraphs
+    - Google Research - quickdraw-doodle-recognition - build a better classifier for the existing Quick, Draw! dataset
+      - Secured Bronze medal(119 out of 1316) - top 10%
+      - Used Pytorch and resnet34 to build a classifier
+      - Used MobileNetV2 to improve the run time of the model
+      - Used AdaptiveAvgPool2d and AdaptiveMaxPool2d to improve the performance 
+    - Google Analytics Customer Revenue Prediction - to predict revenue per customer
+      - Secured top 20% rank (717/3611)
+      - Built the model using XGBOOST even thought the final submission was using LGBM
+    - Human Protein Atlas Image Classification - classifying mixed patterns of proteins in microscope images
+      - Secured top 23% rank (493/2169)
+      - Used resnet34 CNN model from Pytorch
+    - Traveling Santa 2018 - Prime Paths - Traveling Salesman Problem with twist
+      - Secured top 28% rank (510/1871)
+      - Used KNN to generate routes for the nearest city
+
+- layout: top-middle
   name: Gaming Analytics
   quote: >
     To process huge game logs to enable publisher find churn analysis, make future marketing strategies, 
