@@ -1,4 +1,20 @@
 # Project template
+
+- layout: top-middle
+  name: pandas-dev/pandas
+  link: https://github.com/pandas-dev/pandas
+  quote: >
+    Flexible and powerful data analysis / manipulation library for Python
+  description: | # this will include new lines to allow paragraphs
+    - #34067 - BUG: Series.to_timestamp and Series.to_period raise user-facing AssertionError
+      - Previously an attribute error was raised , fixed it to raising a TypeError instead
+      - Used pytest to write test cases for confirming the above fix
+      - Used Indices fixture to iterate all the tests
+    - #34021 - TST: query with timezone aware index & column
+      - Previously query used to behave differently when querying index vs column
+      - Added tests using pytest to confirm the fix
+      - Used tz_aware_fixture to iteratre through all timezones
+
 - layout: top-middle
   name: SmartNomad
   link: https://smartnomad.com/
