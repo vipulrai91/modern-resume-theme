@@ -36,7 +36,7 @@ linkedin_username: vipulrai
 # about_title: About Me (Use this to override about section title)
 about_profile_image: "images/vipul_profile.jpg"
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Vipul and I am a Data Scientist.I also have experience in Software Engineering and Data Engineering.I have worked at a number of companies gaining teamwork and leadership skills.I have overall 7+ years of experience.   
+  Hi I am Vipul, and I have an extensive experience in the field of Data Science and Engineering.I have worked at multitude of roles as mentor and leader in conjunction with existing roles.
 
   <mark>Currently I am </mark>
     - Open Source Contributor to pandas and scikit-learn
