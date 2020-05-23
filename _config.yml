@@ -46,8 +46,9 @@ about_content: | # this will include new lines to allow paragraphs
     - Programming Languages - Python , Java , Scala
     - Big Data - Spark , Kafka , Map Reduce , Hive,  HDFS , YARN , SQL
     - DL/AI - Neural Networks(CNN , RNN , LSTM)
-    - ML - Regression(Linear Regression, RandomForest Regressor)
-    - ML - Classification and Segmentation(Logistic Regression, RandomForest Classifier, SVM , XGBOOST , KNN)
+    - ML - Classification and Segmentation(Decision Trees , RandomForest Classifier , Logistic Regression, 
+      SVM , XGBOOST , KNN, AdaBoost , Naive Bayes , KNN) Regression(Linear Regression, RandomForest Regressor)
+      Unsupervised Learning - K-means , AffinityPropagation , Birch , OPTICS
     - Cloud Services - AWS Lambda , S3 , EC2 , API Gateway , SageMaker
     - Deep Learning Frameworks - fast.ai , PyTorch
     - Dev Tools - Django , Git , Github , Jupyter , VSCode , JIRA 
