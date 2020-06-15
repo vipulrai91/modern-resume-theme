@@ -7,13 +7,9 @@
     Flexible and powerful data analysis / manipulation library for Python
   description: | # this will include new lines to allow paragraphs
     - #34067 - BUG: Series.to_timestamp and Series.to_period raise user-facing AssertionError
-      - Previously an attribute error was raised , fixed it to raising a TypeError instead
-      - Used pytest to write test cases for confirming the above fix
-      - Used Indices fixture to iterate all the tests
+      - Fixed bug which was raising unrelated assertion error
     - #34021 - TST: query with timezone aware index & column
-      - Previously query used to behave differently when querying index vs column
-      - Added tests using pytest to confirm the fix
-      - Used tz_aware_fixture to iteratre through all timezones
+      - Created tests which tested the fix fot time zone aware queries
 
 - layout: top-middle
   name: SmartNomad
@@ -45,7 +41,7 @@
   name: Kaggle
   link: https://www.kaggle.com/vipulrai
   quote: >
-    Online Competition - https://www.kaggle.com/ 
+    Online Competition - https://www.kaggle.com/
   description: | # this will include new lines to allow paragraphs
     - Google Research - quickdraw-doodle-recognition - build a better classifier for the existing Quick, Draw! dataset
       - Secured Bronze medal(119 out of 1316) - top 10%

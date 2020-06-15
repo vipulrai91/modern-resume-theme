@@ -1,21 +1,7 @@
 # Education Template
-- layout: left
+- layout: top-middle
   name: JNTU-K
   dates: 2008 - 2012
   qualification: Bachelor of Technology
   quote: >
     Computer Science and Engineering
-
-- layout: left
-  name: Kendriya Vidyalaya
-  dates: 2008
-  qualification: 12th Class - Higher Senior Secondary School
-  quote: >
-    Maths, Physics, Chemistry
-
-- layout: left
-  name: Navy Children School
-  dates: 2006
-  qualification: 10th Class - Senior Secondary School
-  quote: >
-    Science
